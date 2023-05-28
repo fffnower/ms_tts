@@ -1,3 +1,7 @@
+'''
+pip install pyaudio, pydub, edge_tts, chardet
+'''
+
 from pydub import AudioSegment
 from pydub.playback import play
 import asyncio
